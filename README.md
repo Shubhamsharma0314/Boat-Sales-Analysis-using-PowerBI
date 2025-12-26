@@ -33,6 +33,5 @@ This project presents an end-to-end Boat Sales Analytics Dashboard built using P
 - DAX
 - Data Cleaning & Modeling
 
-# Screenshots -
-<img src="main/boat1.png" width="400">
+
 
