@@ -32,3 +32,7 @@ This project presents an end-to-end Boat Sales Analytics Dashboard built using P
 - Power BI
 - DAX
 - Data Cleaning & Modeling
+
+# Screenshots -
+<img src="boat1.png" width="400">
+
